@@ -25,6 +25,6 @@ d=math.sqrt(((x[0]-y[0])**2)+((x[1]-y[1])**2))
 print("{:.2f}".format(d))
 ```
 ### OUTPUT:
-![output](<length and breadth.png>)
+![Alt text](<length and breadth-1.png>)
 ### RESULT:
 Thus the program to find the distance between two points executed successfully.
